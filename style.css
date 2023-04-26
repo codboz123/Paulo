@@ -1,3 +1,42 @@
 body{
-  background: black
+  background: LightGray
+}
+header{
+position: absolute;
+width: 123px;
+height: 127px;
+left: 12px;
+top: 9px;
+background: url(Screenshot_20230322-152606_(1).png);
+}
+p{
+  position: absolute;
+width: 616px;
+height: 94px;
+left: 17px;
+top: 393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+h1{
+  position: absolute;
+width: 512px;
+height: 80px;
+left: 147px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
 }
